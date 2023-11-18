@@ -1,0 +1,191 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "vehicle_number": "AB123CD",
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "cost": 25000,
+      "state": "В робочому стані",
+      "mileage": 35000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "id": 2,
+      "vehicle_number": "XY456ZW",
+      "brand": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "cost": 35000,
+      "state": "В робочому стані",
+      "mileage": 28000,
+      "engine_capacity": "3.5L"
+    },
+    {
+      "id": 3,
+      "vehicle_number": "JK789LM",
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "year": 2018,
+      "cost": 18000,
+      "state": "У ремонті",
+      "mileage": 42000,
+      "engine_capacity": "1.8L"
+    },
+    {
+      "id": 4,
+      "vehicle_number": "MN123OP",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": 2017,
+      "cost": 30000,
+      "state": "В робочому стані",
+      "mileage": 45000,
+      "engine_capacity": "3.6L"
+    },
+    {
+      "id": 5,
+      "vehicle_number": "CD678EF",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "cost": 22000,
+      "state": "В робочому стані",
+      "mileage": 32000,
+      "engine_capacity": "1.5L"
+    },
+    {
+      "id": 6,
+      "vehicle_number": "QR234ST",
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "cost": 26000,
+      "state": "В робочому стані",
+      "mileage": 12000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "id": 7,
+      "vehicle_number": "UV567WX",
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": 2020,
+      "cost": 29000,
+      "state": "В робочому стані",
+      "mileage": 25000,
+      "engine_capacity": "2.4L"
+    },
+    {
+      "id": 8,
+      "vehicle_number": "GH901IJ",
+      "brand": "Subaru",
+      "model": "Outback",
+      "year": 2019,
+      "cost": 27000,
+      "state": "В робочому стані",
+      "mileage": 28000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "id": 9,
+      "vehicle_number": "LM345NO",
+      "brand": "Mazda",
+      "model": "CX-5",
+      "year": 2021,
+      "cost": 32000,
+      "state": "В робочому стані",
+      "mileage": 15000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "id": 10,
+      "vehicle_number": "OP678QR",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "year": 2020,
+      "cost": 24000,
+      "state": "В робочому стані",
+      "mileage": 26000,
+      "engine_capacity": "2.0L"
+    },
+    {
+      "id": 11,
+      "vehicle_number": "AB123CD",
+      "brand": "Toyota",
+      "model": "Camry",
+      "year": 2019,
+      "cost": 25000,
+      "state": "В робочому стані",
+      "mileage": 35000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "id": 12,
+      "vehicle_number": "XY456ZW",
+      "brand": "Ford",
+      "model": "F-150",
+      "year": 2020,
+      "cost": 35000,
+      "state": "В робочому стані",
+      "mileage": 28000,
+      "engine_capacity": "3.5L"
+    },
+    {
+      "id": 13,
+      "vehicle_number": "JK789LM",
+      "brand": "Chevrolet",
+      "model": "Cruze",
+      "year": 2018,
+      "cost": 18000,
+      "state": "У ремонті",
+      "mileage": 42000,
+      "engine_capacity": "1.8L"
+    },
+    {
+      "id": 14,
+      "vehicle_number": "MN123OP",
+      "brand": "Jeep",
+      "model": "Wrangler",
+      "year": 2017,
+      "cost": 30000,
+      "state": "В робочому стані",
+      "mileage": 45000,
+      "engine_capacity": "3.6L"
+    },
+    {
+      "id": 15,
+      "vehicle_number": "CD678EF",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "cost": 22000,
+      "state": "В робочому стані",
+      "mileage": 32000,
+      "engine_capacity": "1.5L"
+    },
+    {
+      "id": 16,
+      "vehicle_number": "QR234ST",
+      "brand": "Nissan",
+      "model": "Altima",
+      "year": 2021,
+      "cost": 26000,
+      "state": "В робочому стані",
+      "mileage": 12000,
+      "engine_capacity": "2.5L"
+    },
+    {
+      "vehicle_number": "UV567WX",
+      "brand": "Kia",
+      "model": "Sorento",
+      "year": 2020,
+      "cost": 300000,
+      "state": "В робочому стані",
+      "mileage": 25000,
+      "engine_capacity": "2.3L",
+      "id": 17
+    }
+  ]
+}
